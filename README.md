@@ -1,34 +1,14 @@
 # Steve Chatbot (ChatbotUSA)
 
-Steve is a friendly AI chatbot built using Vite + React. It integrates with a FastAPI backend (optional) to handle GPT-powered conversations and can be embedded into any small business website.
+Meet Steve — your 24/7 AI-powered customer service rep. Built with React + Vite and ready to deploy on Vercel.
 
-## 🚀 Getting Started
+## 🚀 Setup
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/joelmichaelavery/steve-chatbot-frontend.git
-cd steve-chatbot-frontend
-```
-
-### 2. Install dependencies
 ```bash
 npm install
-```
-
-### 3. Create a `.env` file
-Copy `.env.example` and set your backend endpoint:
-```bash
-cp .env.example .env
-```
-
-### 4. Start the local server
-```bash
 npm run dev
 ```
 
-### 🌐 Deploy
-Deploy to [Vercel](https://vercel.com) with one click.
+## 🌐 Deploy
 
-## ✉️ Contact
-Joel Avery  
-[chatbotusa.ai](https://chatbotusa.ai)
+Deploy to [Vercel](https://vercel.com) or connect to a FastAPI backend for full GPT support.
